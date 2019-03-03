@@ -1,0 +1,36 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+#navBar{
+	background-color:#333;
+	color:#fff;
+	margin: 0;
+	padding: 5px;
+}
+
+#navBar ul{
+	padding:0;
+	list-style: none;
+	text-align: center;
+}
+
+#navBar li{
+	display:inline;
+	padding-left: 100px;
+	padding-right:100px;	
+}
+
+#navBar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:25px;
+}
+#navBar a:hover{
+	color: red;
+}
